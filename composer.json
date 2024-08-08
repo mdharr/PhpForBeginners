@@ -1,0 +1,16 @@
+{
+    "name": "mdharr/demo",
+    "authors": [
+        {
+            "name": "Michael Harrington",
+            "email": "mdharr7@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
